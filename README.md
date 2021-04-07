@@ -32,7 +32,7 @@
 <b>Used IDE´s:</b>
 
 <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
-<img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="max-width:100%; height:26px; margin-right:15px;" align="left"></img>
+<img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
 <a target="_blank" href="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png">
