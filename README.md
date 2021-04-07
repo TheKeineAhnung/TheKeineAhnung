@@ -6,7 +6,7 @@
 -  🤵 Pronouns: he/him
 -  ⚡ Fun fact: I am not funny
 -  Used Browser: <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png">
-<img target="_blank" alt="Firefox Nightly" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png" style="max-width:100%; margin-right:15px;" height="16px"></img>
+<img alt="Firefox Nightly" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png" style="max-width:100%; margin-right:15px;" height="16px"></img>
 </a>
 
 <b>Skills:</b>
