@@ -42,3 +42,10 @@
 <a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
 <img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
+<br>
+<br>
+<b>Stats:</b> <br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung)](https://github.com/TheKeineAhnung/github-readme-stats)
