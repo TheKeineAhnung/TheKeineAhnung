@@ -6,7 +6,7 @@
 -  🤵 Pronouns: he/him
 -  ⚡ Fun fact: I am not funny
 -  Used Browser: <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png">
-<img alt="Firefox Nightly" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png" style="max-width:100%; margin-right:15px;" height="16px"></img>
+<img alt="Firefox Nightly" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png" style="max-width:100%; margin-right:15px; margin-bottom:-4px;" height="16px"></img>
 </a>
 
 <b>Skills:</b>
@@ -46,6 +46,6 @@
 <br>
 <b>Stats:</b> <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=prs,issues,stars&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=prs,issues&include_all_commits=true)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung)](https://github.com/TheKeineAhnung/github-readme-stats)
