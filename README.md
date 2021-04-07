@@ -5,9 +5,6 @@
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank">Twitter</a>
 -  🤵 Pronouns: he/him
 -  ⚡ Fun fact: I am not funny
--  📡 Used Browser: <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png">
-<img alt="Firefox Nightly" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png" style="max-width:100%; margin-right:15px; margin-left:5px; margin-top:4px; margin-bottom:-4px; position:fixed;" height="16px"></img>
-</a>
 
 <b>Skills:</b>
 
@@ -44,7 +41,14 @@
 </a>
 <br>
 <br>
-<b>Stats:</b> <br>
+<b>Used Browser:</b>
+<br>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png">
+<img alt="Firefox Nightly" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png" style="max-width:100%; margin-right:15px; margin-top:4px;" height="26px"></img>
+</a>
+<br>
+<br>
+<b>Stats:</b>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=prs,issues&include_all_commits=true)
 
