@@ -44,7 +44,7 @@
 <b>Used Browser:</b>
 <br>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png">
-<img alt="Firefox Nightly" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png" style="max-width:100%; margin-right:15px; margin-top:4px;" height="26px"></img>
+<img alt="Firefox Nightly" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png" style="max-width:100%; margin-right:15px; margin-top:7px;" height="26px" align="left"></img>
 </a>
 <br>
 <br>
