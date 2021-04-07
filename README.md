@@ -5,7 +5,7 @@
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank">Twitter</a>
 -  🤵 Pronouns: he/him
 -  ⚡ Fun fact: I am not funny
--  Used Browser: <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png">
+-  📡 Used Browser: <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png">
 <img alt="Firefox Nightly" src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox-nightly/firefox-nightly.png" style="max-width:100%; margin-right:15px; margin-bottom:-4px;" height="16px"></img>
 </a>
 
