@@ -5,6 +5,7 @@
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank">Twitter</a>
   - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank">Instagram</a>
 -  🤵 Pronouns: he/him
+- 🎨 Creates graphics
 -  ⚡ Fun fact: I am not funny
 
 <b>Skills:</b>
