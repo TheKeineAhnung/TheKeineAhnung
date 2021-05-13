@@ -50,7 +50,7 @@
 </a>
 <br>
 <br>
-<b>Stats:</b>
+<b><p>Stats <span style="background-color: #0090FF; color: white; border: 2px solid #006FC4; border-radius: 5px;">(Don´t work correct):</span></p></b>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=prs,issues&include_all_commits=true)
 
