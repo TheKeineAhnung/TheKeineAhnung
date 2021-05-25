@@ -52,6 +52,6 @@
 <br>
 <b><p>Stats <span style="background-color: #0090FF; color: white; border: 2px solid #006FC4; border-radius: 5px;">(Don´t work correct):</span></p></b>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung)](https://github.com/TheKeineAhnung/github-readme-stats)
