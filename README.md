@@ -54,4 +54,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=stars,prs&include_all_commits=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung)](https://github.com/TheKeineAhnung/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung&layout=compact)](https://github.com/TheKeineAhnung/github-readme-stats)
