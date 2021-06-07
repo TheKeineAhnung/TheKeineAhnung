@@ -4,7 +4,7 @@
 - 📫 How to reach me:  <br>
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank">Twitter</a>
   - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank">Instagram</a>
-- 🎨I´m currently working on a [Visual Studio Code](https://code.visualstudio.com/) Theme
+- 🎨I´m currently working on a [Visual Studio Code Theme](https://github.com/TheKeineAhnung/Intrepid-Darkness/)
 -  🤵 Pronouns: he/him
 - 🖌 Creates graphics
 -  ⚡ Fun fact: I am not funny
