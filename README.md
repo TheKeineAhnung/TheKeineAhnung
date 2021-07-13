@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning <a href="https://developer.mozilla.org/de/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank">JavaScript</a>
-- 📫 How to reach me:  <br>
+- 📫 How to reach me: <br>
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank">Twitter</a>
   - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank">Instagram</a>
 - 🎨I´m currently working on a [Visual Studio Code Theme](https://github.com/TheKeineAhnung/Intrepid-Darkness/)
@@ -48,8 +48,11 @@
 </a>
 <br>
 <br>
-<b><p>Stats <span style="background-color: #0090FF; color: white; border: 2px solid #006FC4; border-radius: 5px;">(Don´t work 100% correct):</span></p></b>
+<b><p>Stats <span style="background-color: #0090FF; color: white; border: 2px solid #006FC4; border-radius: 5px;">(Don´t work 100% correct)</span>:</p></b>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true)
+| ![Readme Stats][readmestats] | ![Readme Stats][wakatimestats] | ![Readme Stats][toplanguagestats] |
+| :--------------------------: | :----------------------------: | :-------------------------------: |
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung&layout=compact)](https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung&layout=compact)
+[readmestats]: https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true
+[wakatimestats]: https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung&layout=compact&theme=tokyonight
+[toplanguagestats]: https://github-readme-stats.vercel.app/api/top-langs/?username=TheKeineAhnung&layout=compact&theme=tokyonight
