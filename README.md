@@ -53,9 +53,15 @@
 | ![Readme Stats][readmestats] | ![Readme Stats][wakatimestats] | ![Readme Stats][toplanguagestats] |
 | :--------------------------: | :----------------------------: | :-------------------------------: |
 
-<!--START_SECTION:activity-->
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>🚀 Activity Stats</summary>
+  <br>
+  
+  <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
 
 [readmestats]: https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true
 [wakatimestats]: https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung&layout=compact&theme=tokyonight
