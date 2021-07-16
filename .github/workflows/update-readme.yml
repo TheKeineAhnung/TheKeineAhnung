@@ -17,10 +17,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           MAX_LINES: 5
-      - name: Comit changes
-        run: |
-          git add .
-          git config --global user.name 'TheKeineAhnung'
-          git config --global user.email 'thekeineahnung@users.noreply.github.com'
-          git commit -am "✨ added release file"
-          git push
