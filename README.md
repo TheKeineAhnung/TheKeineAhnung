@@ -59,11 +59,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TheKeineAhnung/test/issues/1) in [TheKeineAhnung/test](https://github.com/TheKeineAhnung/test)
-2. ❗️ Opened issue [#1](https://github.com/TheKeineAhnung/test/issues/1) in [TheKeineAhnung/test](https://github.com/TheKeineAhnung/test)
-3. ❗️ Opened issue [#45](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/45) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-4. ❗️ Opened issue [#44](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/44) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-5. ❗️ Opened issue [#43](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/43) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+1. ❗️ Closed issue [#45](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/45) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+2. ❗️ Closed issue [#44](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/44) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+3. 🗣 Commented on [#1](https://github.com/TheKeineAhnung/test/issues/1) in [TheKeineAhnung/test](https://github.com/TheKeineAhnung/test)
+4. ❗️ Opened issue [#1](https://github.com/TheKeineAhnung/test/issues/1) in [TheKeineAhnung/test](https://github.com/TheKeineAhnung/test)
+5. ❗️ Opened issue [#45](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/45) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
 <!--END_SECTION:activity-->
 
 </details>
