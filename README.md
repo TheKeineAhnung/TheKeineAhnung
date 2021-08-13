@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning <a href="https://developer.mozilla.org/de/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank">JavaScript</a>
+- 🌱 I’m currently learning <a href="https://developer.mozilla.org/de/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank" rel="noopener noreferrer">JavaScript</a>
+- 🌱 I want to learn <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noopener noreferrer">Flask</a>
 - 📫 How to reach me: <br>
-  - <a href="https://twitter.com/TheKeineAhnung" target="_blank">Twitter</a>
-  - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank">Instagram</a>
+  - <a href="https://twitter.com/TheKeineAhnung" target="_blank" rel="noopener noreferrer">Twitter</a>
+  - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank" rel="noopener noreferrer">Instagram</a>
 - 🎨I´m currently working on a [Visual Studio Code Theme](https://github.com/TheKeineAhnung/Intrepid-Darkness/)
 - 🤵 Pronouns: he/him
 - 🖌 Creates graphics
@@ -11,23 +12,23 @@
 
 <b>Skills:</b>
 
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.png">
-<img alt="Kotlin" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.png" rel="noopener noreferrer">
+<img alt="Kotlin" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.png " style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png">
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" rel="noopener noreferrer">
 <img alt="Python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png">
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" rel="noopener noreferrer">
 <img alt=HTML" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png">
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" rel="noopener noreferrer">
 <img alt="CSS" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png">
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" rel="noopener noreferrer">
 <img alt="CSS" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 <br>
@@ -35,13 +36,13 @@
 
 <b>Used IDE´s:</b>
 
-<a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+<a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" rel="noopener noreferrer">
 <img alt="VisualStudioCode" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 
-<a target="_blank" rel="noopener noreferrer" href="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png">
+<a target="_blank" rel="noopener noreferrer" href="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" rel="noopener noreferrer">
 <img alt="PyCharm" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 
-<a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
+<a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" rel="noopener noreferrer">
 <img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 </a>
