@@ -12,8 +12,8 @@
 
 <b>Skills:</b>
 
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.png" rel="noopener noreferrer">
-<img alt="Kotlin" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.png " style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
+<a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" rel="noopener noreferrer">
+<img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png " style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" rel="noopener noreferrer">
