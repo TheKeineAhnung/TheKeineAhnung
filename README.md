@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning <a href="https://developer.mozilla.org/de/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank" rel="noopener noreferrer">JavaScript</a>
-- 🌱 I want to learn <a href=https://flask.palletsprojects.com/en/2.0.x" target="_blank" rel="noopener noreferrer">Flask</a>
+- 🌱 I want to learn <a href="https://flask.palletsprojects.com/en/2.0.x" target="_blank" rel="noopener noreferrer">Flask</a>
 - 📫 How to reach me: <br>
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank" rel="noopener noreferrer">Twitter</a>
   - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank" rel="noopener noreferrer">Instagram</a>
