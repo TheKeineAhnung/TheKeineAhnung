@@ -60,11 +60,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#65](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/65) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-2. 🎉 Merged PR [#7](https://github.com/TheKeineAhnung/colorcodetools/pull/7) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
-3. 🎉 Merged PR [#6](https://github.com/TheKeineAhnung/colorcodetools/pull/6) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
-4. 💪 Opened PR [#7](https://github.com/TheKeineAhnung/colorcodetools/pull/7) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
-5. 💪 Opened PR [#6](https://github.com/TheKeineAhnung/colorcodetools/pull/6) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
+1. ❗️ Opened issue [#9](https://github.com/TheKeineAhnung/colorcodetools/issues/9) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
+2. ❗️ Opened issue [#65](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/65) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+3. 🎉 Merged PR [#7](https://github.com/TheKeineAhnung/colorcodetools/pull/7) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
+4. 🎉 Merged PR [#6](https://github.com/TheKeineAhnung/colorcodetools/pull/6) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
+5. 💪 Opened PR [#7](https://github.com/TheKeineAhnung/colorcodetools/pull/7) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
 <!--END_SECTION:activity-->
 
 </details>
