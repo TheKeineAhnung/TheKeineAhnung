@@ -60,11 +60,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/68) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-2. 🎉 Merged PR [#67](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/67) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-3. ❗️ Closed issue [#65](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/65) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-4. ❗️ Closed issue [#64](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/64) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-5. ❗️ Opened issue [#14](https://github.com/TheKeineAhnung/colorcodetools/issues/14) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
+1. ❗️ Closed issue [#66](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/66) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+2. 🎉 Merged PR [#68](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/68) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+3. 💪 Opened PR [#68](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/68) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+4. 🎉 Merged PR [#67](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/67) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+5. ❗️ Closed issue [#65](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/65) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
 <!--END_SECTION:activity-->
 
 </details>
