@@ -60,11 +60,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/TheKeineAhnung/webdev-setup/pull/10) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-2. ❗️ Opened issue [#3](https://github.com/Rettungssimulator/ReSi-Community/issues/3) in [Rettungssimulator/ReSi-Community](https://github.com/Rettungssimulator/ReSi-Community)
-3. 🎉 Merged PR [#17](https://github.com/TheKeineAhnung/colorcodetools/pull/17) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
-4. 💪 Opened PR [#17](https://github.com/TheKeineAhnung/colorcodetools/pull/17) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
-5. ❗️ Closed issue [#14](https://github.com/TheKeineAhnung/colorcodetools/issues/14) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
+1. 🎉 Merged PR [#69](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/69) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+2. 🎉 Merged PR [#10](https://github.com/TheKeineAhnung/webdev-setup/pull/10) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+3. ❗️ Opened issue [#3](https://github.com/Rettungssimulator/ReSi-Community/issues/3) in [Rettungssimulator/ReSi-Community](https://github.com/Rettungssimulator/ReSi-Community)
+4. 🎉 Merged PR [#17](https://github.com/TheKeineAhnung/colorcodetools/pull/17) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
+5. 💪 Opened PR [#17](https://github.com/TheKeineAhnung/colorcodetools/pull/17) in [TheKeineAhnung/colorcodetools](https://github.com/TheKeineAhnung/colorcodetools)
 <!--END_SECTION:activity-->
 
 </details>
