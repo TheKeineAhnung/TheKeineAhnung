@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning <a href="https://developer.mozilla.org/de/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank" rel="noopener noreferrer">JavaScript</a>
-- 🌱 I want to learn <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">NodeJS</a>
+- 🌱 I want to learn <a href="https://flask.palletsprojects.com/en/2.0.x" target="_blank" rel="noopener noreferrer">Flask</a>
 - 📫 How to reach me: <br>
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank" rel="noopener noreferrer">Twitter</a>
   - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank" rel="noopener noreferrer">Instagram</a>
-- 🎨I´m currently working on a [Visual Studio Code Theme](https://github.com/TheKeineAhnung/Intrepid-Darkness/)
+- 🎨I´m currently working on [colorcodetools](https://github.com/TheKeineAhnung/colorcodetools/)
 - 🤵 Pronouns: he/him
 - 🖌 Creates graphics
 - ⚡ Fun fact: I am not funny
 
 <b>Skills:</b>
 
-<a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" rel="noopener noreferrer">
-<img alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png " style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png?raw=true" rel="noopener noreferrer">
+<img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png?raw=true" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" rel="noopener noreferrer">
@@ -60,11 +60,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#50](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/50) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-2. 🎉 Merged PR [#53](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/53) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-3. 💪 Opened PR [#53](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/53) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-4. ❗️ Closed issue [#52](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/52) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-5. ❗️ Opened issue [#52](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/52) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+1. 🎉 Merged PR [#70](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/70) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+2. 🎉 Merged PR [#15](https://github.com/TheKeineAhnung/webdev-setup/pull/15) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+3. 🎉 Merged PR [#14](https://github.com/TheKeineAhnung/webdev-setup/pull/14) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+4. 🎉 Merged PR [#13](https://github.com/TheKeineAhnung/webdev-setup/pull/13) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+5. 🎉 Merged PR [#12](https://github.com/TheKeineAhnung/webdev-setup/pull/12) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
 <!--END_SECTION:activity-->
 
 </details>
