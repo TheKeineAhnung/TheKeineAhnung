@@ -72,3 +72,7 @@
 [readmestats]: https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true
 [wakatimestats]: https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung&layout=compact&theme=tokyonight
 [toplanguagestats]: https://github-readme-stats.vercel.app/api/top-langs/?username=TheKeineAhnung&layout=compact&theme=tokyonight
+
+### Watch my contribution graph get eaten by snake 🐍
+
+![alt](https://raw.githubusercontent.com/TheKeineAhnung/TheKeineAhnung/output/github-contribution-grid-snake.svg)
