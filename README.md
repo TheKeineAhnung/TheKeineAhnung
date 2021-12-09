@@ -5,7 +5,7 @@
 - 📫 How to reach me: <br>
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank" rel="noopener noreferrer">Twitter</a>
   - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank" rel="noopener noreferrer">Instagram</a>
-- 🎨I´m currently working on [colorcodetools](https://github.com/TheKeineAhnung/colorcodetools/)
+- 🎨I´m currently working on some side projects
 - 🤵 Pronouns: he/him
 - 🖌 Creates graphics
 - ⚡ Fun fact: I am not funny
