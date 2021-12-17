@@ -60,11 +60,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/TheKeineAhnung/webdev-setup/pull/33) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-2. 🎉 Merged PR [#32](https://github.com/TheKeineAhnung/webdev-setup/pull/32) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-3. 🎉 Merged PR [#31](https://github.com/TheKeineAhnung/webdev-setup/pull/31) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-4. ❗️ Opened issue [#82](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/82) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-5. ❗️ Opened issue [#81](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/81) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+1. 🎉 Merged PR [#83](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/83) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+2. 🎉 Merged PR [#33](https://github.com/TheKeineAhnung/webdev-setup/pull/33) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+3. 🎉 Merged PR [#32](https://github.com/TheKeineAhnung/webdev-setup/pull/32) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+4. 🎉 Merged PR [#31](https://github.com/TheKeineAhnung/webdev-setup/pull/31) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+5. ❗️ Opened issue [#82](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/82) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
 <!--END_SECTION:activity-->
 
 </details>
