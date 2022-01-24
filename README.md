@@ -60,11 +60,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/TheKeineAhnung/webdev-setup/pull/56) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-2. 🎉 Merged PR [#55](https://github.com/TheKeineAhnung/webdev-setup/pull/55) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-3. 🎉 Merged PR [#53](https://github.com/TheKeineAhnung/webdev-setup/pull/53) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-4. 🎉 Merged PR [#54](https://github.com/TheKeineAhnung/webdev-setup/pull/54) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-5. 🎉 Merged PR [#52](https://github.com/TheKeineAhnung/webdev-setup/pull/52) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+1. 🎉 Merged PR [#58](https://github.com/TheKeineAhnung/webdev-setup/pull/58) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+2. 🎉 Merged PR [#57](https://github.com/TheKeineAhnung/webdev-setup/pull/57) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+3. 🎉 Merged PR [#56](https://github.com/TheKeineAhnung/webdev-setup/pull/56) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+4. 🎉 Merged PR [#55](https://github.com/TheKeineAhnung/webdev-setup/pull/55) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+5. 🎉 Merged PR [#53](https://github.com/TheKeineAhnung/webdev-setup/pull/53) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
 <!--END_SECTION:activity-->
 
 </details>
