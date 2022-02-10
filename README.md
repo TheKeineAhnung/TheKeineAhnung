@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning <a href="https://developer.mozilla.org/de/docs/Learn/JavaScript/First_steps/What_is_JavaScript" target="_blank" rel="noopener noreferrer">JavaScript</a> and <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">PHP</a>
-- 🌱 I want to learn <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte</a>
+- 🌱 I’m currently learning <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte</a> and <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">PHP</a>
 - 📫 How to reach me: <br>
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank" rel="noopener noreferrer">Twitter</a>
   - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank" rel="noopener noreferrer">Instagram</a>
