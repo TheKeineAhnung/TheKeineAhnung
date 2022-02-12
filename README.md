@@ -11,24 +11,28 @@
 
 <b>Skills:</b>
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png?raw=true" rel="noopener noreferrer">
-<img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png?raw=true" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
-</a>
-
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" rel="noopener noreferrer">
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png">
 <img alt="Python" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" rel="noopener noreferrer">
-<img alt=HTML" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png">
+<img alt="HTML" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" rel="noopener noreferrer">
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png">
 <img alt="CSS" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" rel="noopener noreferrer">
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png?raw=true">
+<img alt="Sass/SCSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png?raw=true" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png">
 <img alt="CSS" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
+</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png?raw=true">
+<img alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png?raw=true" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 <br>
 <br>
@@ -48,7 +52,7 @@
 </a>
 <br>
 <br>
-<b><p>Stats <span style="background-color: #0090FF; color: white; border: 2px solid #006FC4; border-radius: 5px;">(Don´t work 100% correct)</span>:</p></b>
+<b><p>Stats:</p></b>
 
 | ![Readme Stats][readmestats] | ![Readme Stats][wakatimestats] | ![Readme Stats][toplanguagestats] |
 | :--------------------------: | :----------------------------: | :-------------------------------: |
@@ -74,4 +78,4 @@
 
 ### Watch my contribution graph get eaten by snake 🐍
 
-![alt](https://raw.githubusercontent.com/TheKeineAhnung/TheKeineAhnung/output/github-contribution-grid-snake.svg)
+![contribution graph get eaten by snake](https://raw.githubusercontent.com/TheKeineAhnung/TheKeineAhnung/output/github-contribution-grid-snake.svg)
