@@ -63,11 +63,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/TheKeineAhnung/webdev-setup/pull/85) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-2. 🎉 Merged PR [#84](https://github.com/TheKeineAhnung/webdev-setup/pull/84) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-3. ❗️ Closed issue [#8](https://github.com/TheKeineAhnung/ReSi-Scripte/issues/8) in [TheKeineAhnung/ReSi-Scripte](https://github.com/TheKeineAhnung/ReSi-Scripte)
-4. ❗️ Opened issue [#8](https://github.com/TheKeineAhnung/ReSi-Scripte/issues/8) in [TheKeineAhnung/ReSi-Scripte](https://github.com/TheKeineAhnung/ReSi-Scripte)
-5. 🎉 Merged PR [#83](https://github.com/TheKeineAhnung/webdev-setup/pull/83) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+1. 🎉 Merged PR [#86](https://github.com/TheKeineAhnung/webdev-setup/pull/86) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+2. 🎉 Merged PR [#87](https://github.com/TheKeineAhnung/webdev-setup/pull/87) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+3. 🎉 Merged PR [#85](https://github.com/TheKeineAhnung/webdev-setup/pull/85) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+4. 🎉 Merged PR [#84](https://github.com/TheKeineAhnung/webdev-setup/pull/84) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+5. ❗️ Closed issue [#8](https://github.com/TheKeineAhnung/ReSi-Scripte/issues/8) in [TheKeineAhnung/ReSi-Scripte](https://github.com/TheKeineAhnung/ReSi-Scripte)
 <!--END_SECTION:activity-->
 
 </details>
