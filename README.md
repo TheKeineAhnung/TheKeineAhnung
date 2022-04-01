@@ -63,11 +63,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/TheKeineAhnung/resi-script-manager/pull/12) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-2. 💪 Opened PR [#12](https://github.com/TheKeineAhnung/resi-script-manager/pull/12) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-3. 🎉 Merged PR [#11](https://github.com/TheKeineAhnung/resi-script-manager/pull/11) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-4. 💪 Opened PR [#11](https://github.com/TheKeineAhnung/resi-script-manager/pull/11) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-5. ❗️ Closed issue [#5](https://github.com/TheKeineAhnung/resi-script-manager/issues/5) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+1. 🎉 Merged PR [#93](https://github.com/TheKeineAhnung/webdev-setup/pull/93) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+2. 🎉 Merged PR [#12](https://github.com/TheKeineAhnung/resi-script-manager/pull/12) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+3. 💪 Opened PR [#12](https://github.com/TheKeineAhnung/resi-script-manager/pull/12) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+4. 🎉 Merged PR [#11](https://github.com/TheKeineAhnung/resi-script-manager/pull/11) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+5. 💪 Opened PR [#11](https://github.com/TheKeineAhnung/resi-script-manager/pull/11) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
 <!--END_SECTION:activity-->
 
 </details>
