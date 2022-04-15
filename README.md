@@ -63,11 +63,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/TheKeineAhnung/resi-script-manager/issues/22) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-2. 🎉 Merged PR [#98](https://github.com/TheKeineAhnung/webdev-setup/pull/98) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-3. ❗️ Closed issue [#9](https://github.com/TheKeineAhnung/ReSi-Scripte/issues/9) in [TheKeineAhnung/ReSi-Scripte](https://github.com/TheKeineAhnung/ReSi-Scripte)
-4. 🎉 Merged PR [#14](https://github.com/TheKeineAhnung/resi-script-manager/pull/14) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-5. 💪 Opened PR [#14](https://github.com/TheKeineAhnung/resi-script-manager/pull/14) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+1. ❗️ Closed issue [#12](https://github.com/TheKeineAhnung/ReSi-Scripte/issues/12) in [TheKeineAhnung/ReSi-Scripte](https://github.com/TheKeineAhnung/ReSi-Scripte)
+2. 🗣 Commented on [#12](https://github.com/TheKeineAhnung/ReSi-Scripte/issues/12) in [TheKeineAhnung/ReSi-Scripte](https://github.com/TheKeineAhnung/ReSi-Scripte)
+3. 🗣 Commented on [#17](https://github.com/TheKeineAhnung/resi-script-manager/issues/17) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+4. ❗️ Closed issue [#17](https://github.com/TheKeineAhnung/resi-script-manager/issues/17) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+5. ❗️ Closed issue [#20](https://github.com/TheKeineAhnung/resi-script-manager/issues/20) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
 <!--END_SECTION:activity-->
 
 </details>
