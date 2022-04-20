@@ -67,18 +67,18 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/TheKeineAhnung/webdev-setup/pull/86) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-2. 🎉 Merged PR [#87](https://github.com/TheKeineAhnung/webdev-setup/pull/87) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-3. 🎉 Merged PR [#85](https://github.com/TheKeineAhnung/webdev-setup/pull/85) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-4. 🎉 Merged PR [#84](https://github.com/TheKeineAhnung/webdev-setup/pull/84) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
-5. ❗️ Closed issue [#8](https://github.com/TheKeineAhnung/ReSi-Scripte/issues/8) in [TheKeineAhnung/ReSi-Scripte](https://github.com/TheKeineAhnung/ReSi-Scripte)
+1. 🎉 Merged PR [#24](https://github.com/TheKeineAhnung/resi-script-manager/pull/24) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+2. ❗️ Closed issue [#22](https://github.com/TheKeineAhnung/resi-script-manager/issues/22) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+3. 💪 Opened PR [#24](https://github.com/TheKeineAhnung/resi-script-manager/pull/24) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+4. 🎉 Merged PR [#96](https://github.com/TheKeineAhnung/webdev-setup/pull/96) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
+5. 🎉 Merged PR [#99](https://github.com/TheKeineAhnung/webdev-setup/pull/99) in [TheKeineAhnung/webdev-setup](https://github.com/TheKeineAhnung/webdev-setup)
 <!--END_SECTION:activity-->
 
 </details>
 
 [readmestats]: https://github-readme-stats.vercel.app/api?username=TheKeineAhnung&count_private=true&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true
 [wakatimestats]: https://github-readme-stats.vercel.app/api/wakatime?username=KeineAhnung&layout=compact&theme=tokyonight
-[toplanguagestats]: https://github-readme-stats.vercel.app/api/top-langs/?username=TheKeineAhnung&layout=compact&theme=tokyonight
+[toplanguagestats]: https://github-readme-stats.vercel.app/api/top-langs/?username=TheKeineAhnung&layout=compact&theme=tokyonight&langs_count=10
 
 ### Watch my contribution graph get eaten by snake 🐍
 
