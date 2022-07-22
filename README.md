@@ -31,6 +31,10 @@
 <img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
 
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?raw=true">
+<img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png?raw=true" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
+</a>
+
 <a target="_blank" rel="noopener noreferrer" href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png">
 <img alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" style="max-width: 100%; margin-right: 15px;" height="26px" align="left"></img>
 </a>
@@ -38,6 +42,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png?raw=true">
 <img alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png?raw=true" style="max-width:100%; margin-right:15px;" height="26px" align="left"></img>
 </a>
+
 <br>
 <br>
 
