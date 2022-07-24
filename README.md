@@ -72,11 +72,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/103) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-2. 🎉 Merged PR [#27](https://github.com/TheKeineAhnung/resi-script-manager/pull/27) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-3. 💪 Opened PR [#27](https://github.com/TheKeineAhnung/resi-script-manager/pull/27) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-4. 🎉 Merged PR [#102](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/102) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-5. 🎉 Merged PR [#26](https://github.com/TheKeineAhnung/resi-script-manager/pull/26) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+1. ❗️ Opened issue [#105](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/105) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+2. ❗️ Opened issue [#104](https://github.com/TheKeineAhnung/Intrepid-Darkness/issues/104) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+3. 🎉 Merged PR [#103](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/103) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+4. 🎉 Merged PR [#27](https://github.com/TheKeineAhnung/resi-script-manager/pull/27) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+5. 💪 Opened PR [#27](https://github.com/TheKeineAhnung/resi-script-manager/pull/27) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
 <!--END_SECTION:activity-->
 
 </details>
