@@ -72,11 +72,11 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/TheKeineAhnung/resi-script-manager/pull/35) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-2. 💪 Opened PR [#35](https://github.com/TheKeineAhnung/resi-script-manager/pull/35) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-3. 🎉 Merged PR [#110](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/110) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
-4. 🎉 Merged PR [#34](https://github.com/TheKeineAhnung/resi-script-manager/pull/34) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
-5. 💪 Opened PR [#34](https://github.com/TheKeineAhnung/resi-script-manager/pull/34) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+1. ❗️ Opened issue [#6](https://github.com/Rettungssimulator/ReSi-Community/issues/6) in [Rettungssimulator/ReSi-Community](https://github.com/Rettungssimulator/ReSi-Community)
+2. 🎉 Merged PR [#35](https://github.com/TheKeineAhnung/resi-script-manager/pull/35) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+3. 💪 Opened PR [#35](https://github.com/TheKeineAhnung/resi-script-manager/pull/35) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+4. 🎉 Merged PR [#110](https://github.com/TheKeineAhnung/Intrepid-Darkness/pull/110) in [TheKeineAhnung/Intrepid-Darkness](https://github.com/TheKeineAhnung/Intrepid-Darkness)
+5. 🎉 Merged PR [#34](https://github.com/TheKeineAhnung/resi-script-manager/pull/34) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
 <!--END_SECTION:activity-->
 
 </details>
