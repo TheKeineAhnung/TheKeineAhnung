@@ -4,9 +4,8 @@
 - 📫 How to reach me: <br>
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank" rel="noopener noreferrer">Twitter</a>
   - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank" rel="noopener noreferrer">Instagram</a>
-- 🎨I´m currently working on <a href="https://github.com/TheKeineAhnung/resi-script-manager" targer="_blank" rel="noopener noreferrer">resi-script-manager</a>
+- 🎨I´m currently working on some private projects
 - 🤵 Pronouns: he/him
-- 🖌 Creates graphics
 - ⚡ Fun fact: I am not funny
 
 <b>Skills:</b>
