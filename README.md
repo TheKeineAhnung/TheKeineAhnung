@@ -71,8 +71,8 @@
   <br>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/Rettungssimulator/ReSi-Community/issues/15) in [Rettungssimulator/ReSi-Community](https://github.com/Rettungssimulator/ReSi-Community)
-2. ❗️ Opened issue [#14](https://github.com/Rettungssimulator/ReSi-Community/issues/14) in [Rettungssimulator/ReSi-Community](https://github.com/Rettungssimulator/ReSi-Community)
+1. 🎉 Merged PR [#48](https://github.com/TheKeineAhnung/resi-script-manager/pull/48) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
+2. 🎉 Merged PR [#47](https://github.com/TheKeineAhnung/resi-script-manager/pull/47) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
 3. 🎉 Merged PR [#46](https://github.com/TheKeineAhnung/resi-script-manager/pull/46) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
 4. 💪 Opened PR [#46](https://github.com/TheKeineAhnung/resi-script-manager/pull/46) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
 5. 🎉 Merged PR [#45](https://github.com/TheKeineAhnung/resi-script-manager/pull/45) in [TheKeineAhnung/resi-script-manager](https://github.com/TheKeineAhnung/resi-script-manager)
