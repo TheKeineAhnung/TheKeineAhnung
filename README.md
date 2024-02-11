@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning <a href="https://svelte.dev/" target="_blank" rel="noopener noreferrer">Svelte</a> and <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">Express</a>
 - 📫 How to reach me: <br>
   - <a href="https://twitter.com/TheKeineAhnung" target="_blank" rel="noopener noreferrer">Twitter</a>
-  - <a href="https://www.instagram.com/keineahnunggrafiken/" target="_blank" rel="noopener noreferrer">Instagram</a>
 - 🎨I´m currently working on some private projects
 - 🤵 Pronouns: he/him
 - ⚡ Fun fact: I am not funny
